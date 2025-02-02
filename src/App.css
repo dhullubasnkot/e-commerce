@@ -1,0 +1,20 @@
+/* Light Mode (Default) */
+body {
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
+  /* Dark Mode */
+  body.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+  }
+  
+  nav.dark-mode {
+    background-color: #1e1e1e;
+  }
+  
+  button.dark-mode {
+    color: #ffffff;
+  }
+  
